@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.App02" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.App02" parent="Base.Theme.App02" />
+
+    <style name="Primero" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/red</item>
+        <item name="cornerRadius">0dp</item>
+    </style>
+
+    <style name="Segundo" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/blue</item>
+        <item name="cornerRadius">0dp</item>
+    </style>
+
+    <style name="Tercero" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/green</item>
+        <item name="cornerRadius">0dp</item>
+    </style>
+
+</resources>
