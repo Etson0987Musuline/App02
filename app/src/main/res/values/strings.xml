@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">App02</string>
+    <string name="terminos">
+        Los términos y condiciones son documentos que deben estar disponibles
+        en los sitios web, y puedes encontrarlos generalmente en el pie de
+        página de la página principal.
+    </string>
 </resources>

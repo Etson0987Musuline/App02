@@ -54,19 +54,19 @@
             android:layout_marginTop="16dp">
 
             <RadioButton
-                android:id="@+id/memoria8gb"
+                android:id="@+id/m8"
                 android:text="Memoria 8GB"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <RadioButton
-                android:id="@+id/memoria16gb"
+                android:id="@+id/m16"
                 android:text="Memoria 16GB"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <RadioButton
-                android:id="@+id/memoria32gb"
+                android:id="@+id/m32"
                 android:text="Memoria 32GB"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
@@ -88,13 +88,13 @@
             android:layout_marginTop="16dp">
 
             <RadioButton
-                android:id="@+id/integrada"
+                android:id="@+id/gi"
                 android:text="Tarjeta gráfica Integrada"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
             <RadioButton
-                android:id="@+id/independiente"
+                android:id="@+id/gin"
                 android:text="Tarjeta gráfica Independiente"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
